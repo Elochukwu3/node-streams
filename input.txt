@@ -1,0 +1,7 @@
+second() finishes and is removed from the stack.
+first() finishes and is removed from the stack.
+Summary
+Async I/O: Allows your program to initiate I/O operations and continue doing other tasks without waiting for the I/O to complete. This improves efficiency.
+Event Loop: Manages the execution of code, processing events, and handling asynchronous operations, ensuring non-blocking behavior.
+Call Stack: Tracks the order of function execution, adding functions to the stack when called and removing them when they return.
+These concepts work together to make No
